@@ -10,6 +10,6 @@ resnet50
 https://drive.google.com/open?id=14J1Qs8ApuJdhuFvhsf7ejijr86SLFr-p
 
 resnet101
-'''
+
 https://drive.google.com/open?id=1KDBsuDA5OeI_hCde5Vt1vBBbxwff5DLg
-'''
+
